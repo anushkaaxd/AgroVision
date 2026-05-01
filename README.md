@@ -2,9 +2,6 @@
 
 ### 💖 AI Powered Plant Disease Detection System 💖
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
-</p>
 
 ---
 
@@ -39,19 +36,8 @@ It aims to support farmers and researchers by providing fast and accurate predic
 
 ---
 
-## 🐱 Coding Mood
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
-</p>
 
 ---
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
-</p>
 
 ---
 
